@@ -7,11 +7,12 @@
 [![Stars](https://img.shields.io/github/stars/mohammedhisham1/El-Detector.svg)](https://github.com/mohammedhisham1/El-Detector/stargazers)
 [![Issues](https://img.shields.io/github/issues/mohammedhisham1/El-Detector.svg)](https://github.com/mohammedhisham1/El-Detector/issues)
 
-El-Detector is a state-of-the-art model for detecting various elements. This repository contains all the necessary code and instructions to get started with El-Detector.
+El-Detector is an AI app that extracts features from Arabic text using multiple models. This repository contains all the necessary code and instructions to get started with El-Detector.
 
 ## Features
 
-- Accurate detection of specified elements
+- Accurate feature extraction from the Arabic text
+- Utilizes multiple models for enhanced performance
 - Easy-to-use interface
 - Customizable settings
 
@@ -55,7 +56,7 @@ Please download the necessary models from the following links:
 
 ## Contributing
 
-We welcome contributions! Please read the [contributing guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions!
 
 ## License
 
