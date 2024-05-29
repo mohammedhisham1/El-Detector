@@ -48,7 +48,7 @@ Please download the necessary models from the following links:
 
 2. Run the detection script:
     ```bash
-    python detect.py
+    python App.py
     ```
 
 3. Follow the on-screen instructions to perform detections.
